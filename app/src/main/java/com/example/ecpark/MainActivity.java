@@ -14,7 +14,7 @@ import androidx.appcompat.app.AppCompatActivity;
 public class MainActivity extends AppCompatActivity {
     DatabaseHelper db;
     EditText e1,e2,e3,e4;
-    Button b1,b2;
+    Button b1,b2; //haha
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
